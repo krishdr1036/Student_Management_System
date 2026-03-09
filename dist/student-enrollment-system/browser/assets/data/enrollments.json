@@ -1,0 +1,20 @@
+{
+  "enrollments": [
+    { "id": 1, "studentId": 1, "courseId": 1, "enrollmentDate": "2024-01-10", "status": "enrolled" },
+    { "id": 2, "studentId": 1, "courseId": 2, "enrollmentDate": "2024-01-10", "status": "enrolled" },
+    { "id": 3, "studentId": 1, "courseId": 5, "enrollmentDate": "2024-01-11", "status": "enrolled" },
+    { "id": 4, "studentId": 2, "courseId": 3, "enrollmentDate": "2024-01-09", "status": "enrolled" },
+    { "id": 5, "studentId": 2, "courseId": 4, "enrollmentDate": "2024-01-09", "status": "enrolled" },
+    { "id": 6, "studentId": 3, "courseId": 1, "enrollmentDate": "2024-01-12", "status": "enrolled" },
+    { "id": 7, "studentId": 3, "courseId": 3, "enrollmentDate": "2024-01-12", "status": "enrolled" },
+    { "id": 8, "studentId": 3, "courseId": 6, "enrollmentDate": "2024-01-12", "status": "enrolled" },
+    { "id": 9, "studentId": 5, "courseId": 2, "enrollmentDate": "2024-01-10", "status": "enrolled" },
+    { "id": 10, "studentId": 5, "courseId": 5, "enrollmentDate": "2024-01-10", "status": "enrolled" },
+    { "id": 11, "studentId": 5, "courseId": 7, "enrollmentDate": "2024-01-11", "status": "enrolled" },
+    { "id": 12, "studentId": 6, "courseId": 4, "enrollmentDate": "2024-01-13", "status": "enrolled" },
+    { "id": 13, "studentId": 6, "courseId": 6, "enrollmentDate": "2024-01-13", "status": "enrolled" },
+    { "id": 14, "studentId": 7, "courseId": 3, "enrollmentDate": "2024-01-08", "status": "dropped" },
+    { "id": 15, "studentId": 8, "courseId": 1, "enrollmentDate": "2024-01-11", "status": "enrolled" },
+    { "id": 16, "studentId": 8, "courseId": 7, "enrollmentDate": "2024-01-11", "status": "enrolled" }
+  ]
+}
